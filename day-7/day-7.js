@@ -334,7 +334,7 @@ function levelTwo() {
     return id;
   }
 
-  // TODO console.log(randomUserIp());
+  console.log(randomUserIp());
 
   // Write a function which generates a randomMacAddress
   function randomMacAddress() {
@@ -413,7 +413,7 @@ function randomUserIp() {
   }
 }
 
-// TODO randomUserIp();
+randomUserIp();
 
 // Write a function name rgbColorGenerator and it generates rgb colors.
 function rgbColorGenerator() {
